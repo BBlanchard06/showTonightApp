@@ -2,3 +2,8 @@
 / img.logo { width: 100%; }
 
 .dashboard h2 { color: blue; }
+
+button {   /* juste selection de button avec un float right */
+
+    float: right;
+}
